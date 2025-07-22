@@ -81,11 +81,6 @@ class PatientResource extends Resource
                     'cat' => 'Cat',
                     'dog' => 'Dog',
                     'rabbit' => 'Rabbit',
-                    'horse' => 'Horse',
-                    'hamster' => 'Hamster',
-                    'parrot' => 'Parrot',
-                    'snake' => 'Snake',
-                    'lamb' => 'Lamb'
                 ]),
             ])
             ->actions([
